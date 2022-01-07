@@ -79,11 +79,11 @@ through Twitter, Facebook, Google Plus etc.
 To run the example either clone the source from GitHub
 
 ```text
-$ git clone git@github.com/shareed2k/goth_fiber.git
+$ git clone git@github.com/ksewo/goth_fiber.git
 ```
 
 ```text
-$ go get github.com/shareed2k/goth_fiber
+$ go get github.com/ksewo/goth_fiber
 ```
 
 ```text
