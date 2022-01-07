@@ -1,4 +1,4 @@
-module github.com/shareed2k/goth_fiber
+module github.com/ksewo/goth_fiber
 
 go 1.17
 
