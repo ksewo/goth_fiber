@@ -160,8 +160,6 @@ func CompleteUserAuth(ctx *fiber.Ctx) (goth.User, error) {
 		return goth.User{}, err
 	}
 
-	defer Logout(ctx)
-
 	sess, err := provider.UnmarshalSession(value)
 	if err != nil {
 		return goth.User{}, err
