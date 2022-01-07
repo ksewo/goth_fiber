@@ -9,7 +9,7 @@ protocol providers, as long as they implement the `Provider` and `Session` inter
 ## Installation
 
 ```text
-$ go get github.com/shareed2k/goth_fiber
+$ go get github.com/ksewo/goth_fiber
 ```
 
 ## Supported Providers
